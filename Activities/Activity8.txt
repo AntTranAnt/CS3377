@@ -1,0 +1,9 @@
+Anthony Tran
+axt220037
+
+// Pseudocode:
+// 1. Prompt and input 3 values from the user
+// 2. if num1 is greater than or equal to num2 or num3, set max to num1
+// 3. if num2 is greater than num3, set max to num2
+// 4. else set max to num3
+// 5. print out max to user
